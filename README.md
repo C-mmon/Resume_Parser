@@ -9,9 +9,6 @@ Parsing Resume through regex
 - Added Skill Extractor
 
 ## To Do
-- To use fuzzy ratio for better comparison of two strings in skills section
 - To include University
-- Add College Name Extractor
 - Add CGPA Extractor
-- Extract information from github
 
