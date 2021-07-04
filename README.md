@@ -2,14 +2,16 @@
 Parsing Resume through regex
 
 ## Completed
--- Added LinkedIn Extractor
--- Added Phone Number Extractor
--- Added Email Extractor
+- Added LinkedIn Extractor
+- Added Phone Number Extractor
+- Added Email Extractor
+- Added Github Link extractor
+- Added Skill Extractor
 
 ## To Do
--- Refine Name Entity Model
--- Add Skill Extractor Model
--- Add Github Username extractor
--- Add College Name Extractor
--- Add CGPA Extractor
+- To use fuzzy ratio for better comparison of two strings in skills section
+- To include University
+- Add College Name Extractor
+- Add CGPA Extractor
+- Extract information from github
 
